@@ -1,0 +1,16 @@
+{
+  "name": "staking_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.1",
+    "ethutils": "https://github.com/ethutils/ethutils",
+    "ganache": "^7.0.3"
+  }
+}
