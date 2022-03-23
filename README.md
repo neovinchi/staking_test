@@ -2,7 +2,8 @@
 
 ## install: npm install
 ## run:  npm start or 'node test.js'
-staking contract is tested via script, see test.js for details.
+Staking contract is tested via script with use of ganache, see test.js for details.
+No ganache running is needed, script uses node.js ganache object.
 
 Staking contract allows to configure deposit conditions by admin
 (lock term, yearly APY, i.e. 3 months - 20%, 6 months - 25%.
