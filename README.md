@@ -1,6 +1,9 @@
 # staking_test
 
 ## install: npm install
+## install ganache locally - npm install ganache 
+this could be troublesome under windows, due to that it is not in package.json, but additional step
+if ganache installed - next step will work
 ## run:  npm start or 'node test.js'
 Staking contract is tested via script with use of ganache, see test.js for details.
 No ganache running is needed, script uses node.js ganache object.
