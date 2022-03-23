@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "ethers": "^5.6.1",
-    "ethutils": "https://github.com/ethutils/ethutils",
-    "ganache": "^7.0.3"
+    "ethutils": "https://github.com/ethutils/ethutils"
   }
 }
